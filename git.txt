@@ -1,0 +1,34 @@
+Información de algunos comandos git
+
+1. git add - Añadir ficheros al repositorio
+
+2. git diff - Muestra diferencia entre archivos
+
+3. git status - Ver estado del directorio de trabajo
+
+4. git log - Muestra el log
+
+5. git commit - Guarda modificaciones
+
+6. git clone - Clona un repositorio
+
+7. git init - Crea un repositorio o reinicializa el existente
+
+8. git merge - Fusiona archivos
+
+9. git mv - Mueve o renombra archivos
+
+10. git rm - Borra archivos
+
+11. git replace - Remplaza archivos
+
+12. git pull - Actualizar el repositorio
+
+13. git branch - Lista o crea ramas
+
+14. git checkout - Cambia de rama
+
+15. git push - Enviar cambios al repositorio 
+
+
+
