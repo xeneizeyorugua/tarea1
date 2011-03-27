@@ -1,6 +1,10 @@
 Información de algunos comandos git
 
 1. git add - Añadir ficheros al repositorio
+---------------------------------------------------
+   touch README
+   git add README
+---------------------------------------------------   
 
 2. git diff - Muestra diferencia entre archivos
 
@@ -9,8 +13,15 @@ Información de algunos comandos git
 4. git log - Muestra el log
 
 5. git commit - Guarda modificaciones
+---------------------------------------------------
+   git commit -am "Comentario sobre el commit"
+
+---------------------------------------------------
 
 6. git clone - Clona un repositorio
+---------------------------------------------------
+   git clone git://github.com/usuario/repo.git
+--------------------------------------------------
 
 7. git init - Crea un repositorio o reinicializa el existente
 
@@ -25,8 +36,18 @@ Información de algunos comandos git
 12. git pull - Actualizar el repositorio
 
 13. git branch - Lista o crea ramas
+--------------------------------------------------------
+    git branch testing
+    git branch
+  * master
+    testing
+--------------------------------------------------------
 
 14. git checkout - Cambia de rama
+--------------------------------------------------------
+    git checkout testing
+  Switched ti branch 'testing'
+--------------------------------------------------------
 
 15. git push - Enviar cambios al repositorio 
 
